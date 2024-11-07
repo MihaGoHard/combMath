@@ -1,0 +1,8 @@
+﻿  1.1.cpp
+D:\projects\study\Math_ips\source\CM\combinatorics\lw_1\1.1\packages\boost.1.78.0\lib\native\include\boost\timer.hpp(21): message : This header is deprecated. Use the facilities in <boost/timer/timer.hpp> instead.
+  Создание кода
+  1 of 118 functions ( 0.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  1.1.vcxproj -> D:\projects\study\Math_ips\source\CM\combinatorics\lw_1\1.1\x64\Release\1.1.exe

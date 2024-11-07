@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (2.2.1.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  graphs-base.cpp
+  2.2.1.vcxproj -> D:\projects\study\Math_ips\lw-2\2.2.1\x64\Debug\graphs-base.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.

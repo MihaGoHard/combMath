@@ -1,0 +1,6 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (1.1.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  1.1.cpp
+D:\projects\study\Math_ips\lab-1\1.1\packages\boost.1.78.0\lib\native\include\boost\timer.hpp(21): message : This header is deprecated. Use the facilities in <boost/timer/timer.hpp> instead.
+  1.1.vcxproj -> D:\projects\study\Math_ips\lab-1\1.1\x64\Debug\narayan.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
